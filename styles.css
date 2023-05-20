@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+.box-one {
+  height: 200px;
+  width: 200px;
+  color: blueviolet;
+  background-color: red;
+}
